@@ -1,0 +1,11 @@
+body {
+    text-align: center;
+}
+
+.principalViagem p {
+text-align:justify ;
+}
+
+.principalViagem {
+    border: 4px solid blue ;
+}
